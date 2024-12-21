@@ -1,0 +1,21 @@
+﻿text,sentiment
+halo,perkenalan
+hi,perkenalan
+apa kabar,perkenalan
+haii,perkenalan
+perkenalkan,perkenalan
+selamat malam,perkenalan
+selamat pagi,perkenalan
+assalamualaikum,perkenalan
+sore,perkenalan
+permisi,perkenalan
+siapakah aku,aboutowner
+siapa yang membuat projek ini,aboutowner
+infokan orang yang membuat proyek ini,aboutowner
+siapa kontributor dari proyek ini,aboutowner
+saya ingin tahu siapa yang membuat proyek ini,aboutowner
+siapa kamu,aboutchatbot
+perkenalkan diri kamu,aboutchatbot
+kamu ini apa,aboutchatbot
+kau ni ape,aboutchatbot
+kamu siapa,aboutchatbot

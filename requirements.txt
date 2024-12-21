@@ -1,0 +1,9 @@
+ultralytics==8.0.229
+imageio==2.33.1
+imageio-ffmpeg==0.4.8
+emoji==2.9.0
+opencv-contrib-python-headless
+streamlit_webrtc==0.20.0
+textblob
+nltk
+scikit-learn

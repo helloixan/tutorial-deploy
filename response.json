@@ -1,0 +1,27 @@
+{
+    "sentiments": [
+        {
+            "sentiment": "perkenalan",
+            "responses": [
+                "halo aku adalah chatbot",
+                "halo apa kabar",
+                "halo selamat malam/pagi/siang/sore"
+            ]
+        },
+        {
+            "sentiment": "aboutowner",
+            "responses": [
+                "orang yang membuat proyek ini adalah afeef",
+                "afeef adalah orang yang membuat proyek ini"
+            ]
+        },
+        {
+            "sentiment": "aboutchatbot",
+            "responses": [
+                "halo, saya adalah chatbot yang dibuat berdasarkan model naive bayes",
+                "halo saya adalah chatbot",
+                "Halo saya hanyalah model AI"
+            ]
+        }
+    ]
+}
